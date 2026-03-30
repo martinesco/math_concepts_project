@@ -17,13 +17,14 @@ Biomechanical research indicates that a significant portion of occupational back
 ## Technical Framework
 *   **Language:** Python 3.x
 *   **Environment:** Jupyter Notebook
-*   **Libraries:** NumPy (Trigonometric modeling), Data visualization....?
+*   **Libraries:** NumPy (Trigonometric modeling), Data visualization.
 
 ## References
 *   [California State University, Chico - Lifting Techniques (PDF)](https://www.csuchico.edu/ehs/_assets/documents/lifting-techniques.pdf)
 *   [University of Waterloo - Biomechanical Analysis of Lifting (DSpace)](https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/bad0b630-72d1-46cc-b5cd-393c18dbf902/content)
 *   [National Institute for Occupational Safety and Health(NIOSH)](https://www.cdc.gov/niosh/index.html)
 *   [The NIOSH Lifting Equation for Manual Lifting](https://www.longdom.org/open-access/the-niosh-lifting-equation-for-manual-lifting-and-its-applications-23286.html)
+*   [A Biomechanical Waist Comfort Model for Manual Material Lifting](https://www.mdpi.com/1660-4601/17/16/5948)
 
 ## Installation and Execution
 1. Clone the repository to a local machine.
