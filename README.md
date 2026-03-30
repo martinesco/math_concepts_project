@@ -28,6 +28,6 @@ Biomechanical research indicates that a significant portion of occupational back
 
 ## Installation and Execution
 1. Clone the repository to a local machine.
-2. Ensure the required dependencies are installed via `pip install -r requirements.txt`.
+2. Ensure the required dependencies are installed.
 3. Execute the `Safe_Lifting_Analysis.ipynb` notebook to review the mathematical derivations and simulation results.
 
